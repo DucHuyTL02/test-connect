@@ -1,0 +1,23 @@
+﻿body {
+}
+#listPro{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+}
+#box-Pro{
+    width: 160px;
+    text-align:center;
+    height:250px;
+    background-color:gray;
+    margin:10px;
+    border-radius: 20px;
+    border:5px solid black;
+}
+#box-Pro:hover{
+    box-shadow:black 10px 10px;
+}
+.img-pro{
+    width:150px;
+    height:150px;
+}

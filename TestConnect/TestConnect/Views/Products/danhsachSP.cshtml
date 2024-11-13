@@ -1,0 +1,31 @@
+﻿@model  IEnumerable<TestConnect.Models.Products>
+
+@{
+    ViewBag.Title = "danhsachSP";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/mystyle/styleProducts.css" rel="stylesheet" />
+<h2>Danh sách sản phẩm</h2>
+@using (Html.BeginForm("danhsachSP", "Product", FormMethod.Get))
+{
+      @Html.DropDownList("searchCate",(SelectList)ViewBag.listCate,"ALL")
+    <input type="submit" value="Search" />
+}
+<div id="listPro">
+    @foreach (var pro in Model)
+    {
+        <div id="box-Pro">
+            <div>
+                @Html.DisplayFor(m => pro.NamePro)
+            </div>
+            <div>
+                <img src="@Url.Content(pro.ImagePro)" class="img-pro" />
+            </div>
+            <div style="z-index:99 ; margin-top:20px;text-align:center">
+                <input type="submit" value="Mua" class="btn btn-success" name="btnBuy" />
+            </div>
+
+        </div>
+    }
+</div>
+

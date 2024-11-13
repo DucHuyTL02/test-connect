@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\TestConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|d:\\c#\\testconnect\\testconnect\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\views\\products\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\products\\danhsachsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\images\\meo1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\images\\meo1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\views\\fileupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\fileupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\models\\fileuploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\models\\fileuploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|D:\\c#\\TestConnect\\testconnect\\content\\mystyle\\styleproducts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A9566D9-EB14-440E-9FE6-3FE76453B648}|TestConnect\\TestConnect.csproj|solutionrelative:testconnect\\content\\mystyle\\styleproducts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TestConnect\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TestConnect\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:53:07.959Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "danhsachSP.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\Products\\danhsachSP.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\Products\\danhsachSP.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\Products\\danhsachSP.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\Products\\danhsachSP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T03:55:54.509Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TestConnect\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TestConnect\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:41:10.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestConnect\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestConnect\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:18:57.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T02:46:54.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\FileUpload\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\FileUpload\\Index.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\FileUpload\\Index.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\FileUpload\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T03:57:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:44:22.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:31:54.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "meo1.jpg",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Images\\meo1.jpg",
+              "RelativeDocumentMoniker": "TestConnect\\Images\\meo1.jpg",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Images\\meo1.jpg",
+              "RelativeToolTip": "TestConnect\\Images\\meo1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-12T00:47:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:45:44.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:44:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileUploadController.cs",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\FileUploadController.cs",
+              "RelativeDocumentMoniker": "TestConnect\\Controllers\\FileUploadController.cs",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Controllers\\FileUploadController.cs",
+              "RelativeToolTip": "TestConnect\\Controllers\\FileUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:48:02.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestConnect\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "TestConnect\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:24:51.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "styleProducts.css",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Content\\mystyle\\styleProducts.css",
+              "RelativeDocumentMoniker": "TestConnect\\Content\\mystyle\\styleProducts.css",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Content\\mystyle\\styleProducts.css",
+              "RelativeToolTip": "TestConnect\\Content\\mystyle\\styleProducts.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T03:55:23.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileUploadImage.cs",
+              "DocumentMoniker": "D:\\c#\\TestConnect\\TestConnect\\Models\\FileUploadImage.cs",
+              "RelativeDocumentMoniker": "TestConnect\\Models\\FileUploadImage.cs",
+              "ToolTip": "D:\\c#\\TestConnect\\TestConnect\\Models\\FileUploadImage.cs",
+              "RelativeToolTip": "TestConnect\\Models\\FileUploadImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:45:29.582Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
